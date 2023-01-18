@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-ly
 - 👀 I’m interested in ... automation
-- 🌱 I’m currently learning ... ruby, html, sql, javascript 
+- 🌱 I’m currently learning ... ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
